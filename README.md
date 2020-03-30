@@ -25,7 +25,7 @@ pdf417, _ :=pdf417.Encode("Hell world", 5)
 ![PDF417](./pdf417.png)
 
 [PDF417 Error_Correction_level](https://www.barcodefaq.com/2d/pdf417/#Error_Correction_Levels)   
-크기는 2~5:1비율인데 주로 3:1이다.  EC 레벨은 0~8까지이며 주로 2를 사용한다.
+크기는 2~5:1비율인데 주로 3:1이다. EC 레벨은 0~8까지이며 주로 2를 사용한다.
 
 ## Matrix
 ```go
